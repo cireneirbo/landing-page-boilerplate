@@ -17,6 +17,10 @@ A starting point for future landing pages.
 ### package.json
 * `name:`
 
+### index.html
+* `title`
+* `meta description`
+
 
 ## Resources for Building New Sites
 ### SEO Optimization
