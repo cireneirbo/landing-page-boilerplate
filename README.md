@@ -15,4 +15,11 @@ A starting point for future landing pages.
 
 ## Placeholder Checklist
 ### package.json
-* `name:` 
+* `name:`
+
+
+## Resources for Building New Sites
+### SEO Optimization
+
+* [Neil Patel SEO Tools site](https://neilpatel.com/) - paywalls, but has some free tools available.
+* [Crazyegg On-page SEO tools](https://www.crazyegg.com/blog/on-page/) - an overview with links to improving SEO in HTML.
