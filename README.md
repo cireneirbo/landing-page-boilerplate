@@ -27,3 +27,4 @@ A starting point for future landing pages.
 
 * [Neil Patel SEO Tools site](https://neilpatel.com/) - paywalls, but has some free tools available.
 * [Crazyegg On-page SEO tools](https://www.crazyegg.com/blog/on-page/) - an overview with links to improving SEO in HTML.
+* [Crazyegg SEO How-to](https://www.crazyegg.com/blog/how-to-optimize-your-website/) - How to Optimize Your Website for SEO and Conversions.
