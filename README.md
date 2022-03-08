@@ -20,6 +20,7 @@ A starting point for future landing pages.
 ### index.html
 * `title`
 * `meta description`
+* `div class="copyright"` - Untitled >> client's name/company
 
 
 ## Resources for Building New Sites
