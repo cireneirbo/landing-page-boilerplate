@@ -1,9 +1,10 @@
+/*
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/vendor';
 @import 'libs/breakpoints';
-
+*/
 /*
 	Ethereal by HTML5 UP
 	html5up.net | @ajlkn
@@ -11,16 +12,16 @@
 */
 
 /* Page */
-
+/*
 	body {
 		overflow-x: scroll;
 	}
-
+*/
 /* Wrapper */
-
+/*
 	#wrapper {
 		body.is-preload & {
 			@include vendor('transform', 'none');
 			opacity: 1;
 		}
-	}
+	}*/
